@@ -1,3 +1,0 @@
-# TestVagrantTest
-TestVagrantTest Coding Challenge
-
